@@ -1,0 +1,194 @@
+[
+  {
+    "id": "correct_1",
+    "kind": "correct",
+    "budget": 367,
+    "price": 456,
+    "requested": 89,
+    "optional": {
+      "Banners": 59,
+      "Photo booth": 108,
+      "Printed maps": 45
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "correct_2",
+    "kind": "correct",
+    "budget": 702,
+    "price": 786,
+    "requested": 84,
+    "optional": {
+      "Banners": 54,
+      "Photo booth": 95,
+      "Printed maps": 26
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "correct_3",
+    "kind": "correct",
+    "budget": 427,
+    "price": 520,
+    "requested": 93,
+    "optional": {
+      "Banners": 70,
+      "Photo booth": 99,
+      "Printed maps": 22
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_much_1",
+    "kind": "too_much",
+    "budget": 753,
+    "price": 844,
+    "requested": 173,
+    "optional": {
+      "Banners": 60,
+      "Photo booth": 84,
+      "Printed maps": 29
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_much_2",
+    "kind": "too_much",
+    "budget": 470,
+    "price": 609,
+    "requested": 183,
+    "optional": {
+      "Banners": 56,
+      "Photo booth": 90,
+      "Printed maps": 37
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_much_3",
+    "kind": "too_much",
+    "budget": 439,
+    "price": 546,
+    "requested": 221,
+    "optional": {
+      "Banners": 53,
+      "Photo booth": 123,
+      "Printed maps": 45
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_little_1",
+    "kind": "too_little",
+    "budget": 613,
+    "price": 733,
+    "requested": 26,
+    "optional": {
+      "Banners": 36,
+      "Photo booth": 84,
+      "Printed maps": 40
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_little_2",
+    "kind": "too_little",
+    "budget": 669,
+    "price": 776,
+    "requested": 26,
+    "optional": {
+      "Banners": 49,
+      "Photo booth": 95,
+      "Printed maps": 21
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "too_little_3",
+    "kind": "too_little",
+    "budget": 428,
+    "price": 547,
+    "requested": 14,
+    "optional": {
+      "Banners": 38,
+      "Photo booth": 108,
+      "Printed maps": 36
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "impossible_1",
+    "kind": "impossible",
+    "budget": 848,
+    "price": 1075,
+    "requested": 113,
+    "optional": {
+      "Banners": 43,
+      "Photo booth": 113,
+      "Printed maps": 22
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "impossible_2",
+    "kind": "impossible",
+    "budget": 620,
+    "price": 872,
+    "requested": 126,
+    "optional": {
+      "Banners": 61,
+      "Photo booth": 126,
+      "Printed maps": 39
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  },
+  {
+    "id": "impossible_3",
+    "kind": "impossible",
+    "budget": 455,
+    "price": 699,
+    "requested": 119,
+    "optional": {
+      "Banners": 64,
+      "Photo booth": 119,
+      "Printed maps": 33
+    },
+    "protected": [
+      "Venue deposit"
+    ],
+    "source": "synthetic fault injection"
+  }
+]

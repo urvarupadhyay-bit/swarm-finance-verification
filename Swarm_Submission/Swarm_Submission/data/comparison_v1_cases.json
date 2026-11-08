@@ -1,0 +1,206 @@
+[
+  {
+    "id": "fresh_01",
+    "regime": "local",
+    "budget": 466,
+    "buses": {
+      "Bus A": 470,
+      "Bus B": 435
+    },
+    "optional": {
+      "Banners": 52,
+      "Photo booth": 100,
+      "Printed maps": 58
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_02",
+    "regime": "needs_help",
+    "budget": 689,
+    "buses": {
+      "Bus A": 970,
+      "Bus B": 897
+    },
+    "optional": {
+      "Banners": 47,
+      "Photo booth": 132,
+      "Printed maps": 48
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_03",
+    "regime": "infeasible",
+    "budget": 879,
+    "buses": {
+      "Bus A": 1169,
+      "Bus B": 1200
+    },
+    "optional": {
+      "Banners": 81,
+      "Photo booth": 114,
+      "Printed maps": 37
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_04",
+    "regime": "local",
+    "budget": 310,
+    "buses": {
+      "Bus A": 279,
+      "Bus B": 251
+    },
+    "optional": {
+      "Banners": 46,
+      "Photo booth": 116,
+      "Printed maps": 40
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_05",
+    "regime": "needs_help",
+    "budget": 538,
+    "buses": {
+      "Bus A": 660,
+      "Bus B": 610
+    },
+    "optional": {
+      "Banners": 53,
+      "Photo booth": 128,
+      "Printed maps": 39
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_06",
+    "regime": "infeasible",
+    "budget": 399,
+    "buses": {
+      "Bus A": 647,
+      "Bus B": 688
+    },
+    "optional": {
+      "Banners": 76,
+      "Photo booth": 117,
+      "Printed maps": 33
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_07",
+    "regime": "local",
+    "budget": 735,
+    "buses": {
+      "Bus A": 679,
+      "Bus B": 731
+    },
+    "optional": {
+      "Banners": 79,
+      "Photo booth": 148,
+      "Printed maps": 52
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_08",
+    "regime": "needs_help",
+    "budget": 803,
+    "buses": {
+      "Bus A": 915,
+      "Bus B": 1012
+    },
+    "optional": {
+      "Banners": 35,
+      "Photo booth": 91,
+      "Printed maps": 60
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_09",
+    "regime": "infeasible",
+    "budget": 451,
+    "buses": {
+      "Bus A": 791,
+      "Bus B": 738
+    },
+    "optional": {
+      "Banners": 53,
+      "Photo booth": 145,
+      "Printed maps": 22
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_10",
+    "regime": "local",
+    "budget": 447,
+    "buses": {
+      "Bus A": 526,
+      "Bus B": 430
+    },
+    "optional": {
+      "Banners": 46,
+      "Photo booth": 111,
+      "Printed maps": 50
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_11",
+    "regime": "needs_help",
+    "budget": 824,
+    "buses": {
+      "Bus A": 947,
+      "Bus B": 880
+    },
+    "optional": {
+      "Banners": 60,
+      "Photo booth": 116,
+      "Printed maps": 24
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  },
+  {
+    "id": "fresh_12",
+    "regime": "infeasible",
+    "budget": 531,
+    "buses": {
+      "Bus A": 856,
+      "Bus B": 830
+    },
+    "optional": {
+      "Banners": 84,
+      "Photo booth": 113,
+      "Printed maps": 49
+    },
+    "protected": [
+      "Venue deposit"
+    ]
+  }
+]
